@@ -7,6 +7,7 @@ def user_choice():
     within_range = False
 
     # Two conditions to check
+
     # Digit or within _range == False
     while not choice.isdigit() == False or within_range == False:
         choice = input("Please enter a number (0-10): ")
@@ -27,5 +28,3 @@ def user_choice():
 
 
 user_choice()
-
-
