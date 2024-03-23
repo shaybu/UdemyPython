@@ -1,3 +1,4 @@
+
 class Dog:
     # Class object attribute
     # same for any instance of a class

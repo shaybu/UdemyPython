@@ -1,3 +1,4 @@
+
 class Line:
 
     def __init__(self, coor1, coor2):

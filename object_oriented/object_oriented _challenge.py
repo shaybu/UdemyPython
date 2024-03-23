@@ -25,6 +25,4 @@ acct1.deposit(50)
 print(acct1.balance)
 acct1.withdrawal(20)
 print(acct1.balance)
-
-
 print(acct1.balance)
